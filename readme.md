@@ -1,7 +1,7 @@
 # Sudoku board solver
 ## Implemented in Golang
 ---
-###Usage
+### Usage
 It accepts a (9, 9) board in a text document, prints the unsolved and solved boards to stdout and then asks if the solved board should be saved.
 
 ```
